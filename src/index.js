@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Formulario from './Formulario';
+import Formulario from './Formulario.jsx';
 
 ReactDOM.render(
 	<React.StrictMode>
